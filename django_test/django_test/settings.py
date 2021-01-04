@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'dr109*ri$1z)oyp&_q#@qmgl7*1v6^gaa&&j=+y_9p$t=iiuf&'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 # CSRF_COOKIE_SECURE = True
 # SESSION_COOKIE_SECURE = True
