@@ -30,7 +30,7 @@ DEBUG = True
 # SESSION_COOKIE_SECURE = True
 # SECURE_SSL_REDIRECT = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
