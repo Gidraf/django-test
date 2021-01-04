@@ -26,8 +26,8 @@ SECRET_KEY = 'dr109*ri$1z)oyp&_q#@qmgl7*1v6^gaa&&j=+y_9p$t=iiuf&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-CSRF_COOKIE_SECURE = True
-SESSION_COOKIE_SECURE = True
+# CSRF_COOKIE_SECURE = True
+# SESSION_COOKIE_SECURE = True
 # SECURE_SSL_REDIRECT = True
 
 ALLOWED_HOSTS = ['*']
